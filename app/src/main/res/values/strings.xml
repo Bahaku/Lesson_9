@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lesson9</string>
+    <string name="cityname">Название города</string>
+    <string-array name="cities">
+        <item>Выберите город</item>
+        <item>Токио</item>
+        <item>Гуанчжоу</item>
+        <item>Джакарта</item>
+        <item>Сеул</item>
+        <item>Шанхай</item>
+        <item>Мехико</item>
+        <item>Дели</item>
+        <item>Нью-Йорк</item>
+        <item>Карачи</item>
+    </string-array>
+
+</resources>
